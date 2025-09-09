@@ -1,0 +1,68 @@
+{
+  "QwenLM/Qwen-Agent": 2,
+  "analysis_summary": {
+    "total_closed_wip_issues": 2,
+    "repository_details": {
+      "name": "Qwen-Agent",
+      "owner": "QwenLM",
+      "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+      "stars": 11334,
+      "forks": 1024,
+      "open_issues": 378,
+      "created_at": "2023-09-22T02:24:56Z",
+      "last_updated": "2025-09-09T07:42:21Z"
+    },
+    "wip_issues_analysis": [
+      {
+        "issue_number": 102,
+        "title": "qwen-agent支持连接数据库，对表格进行数据分析么？",
+        "english_title": "Does qwen-agent support connecting to databases for table data analysis?",
+        "created_at": "2024-03-27T09:05:35Z",
+        "closed_at": "2024-04-08T06:54:22Z",
+        "duration_days": 12,
+        "comments_count": 10,
+        "assignee": "tuhahaha",
+        "community_engagement": "high",
+        "feature_category": "Database Integration",
+        "development_phase": "Feature Request → Implementation → Completion",
+        "significance": "Enhanced data analysis capabilities for the agent framework"
+      },
+      {
+        "issue_number": 216,
+        "title": "开源的qwen模型是否支持function call",
+        "english_title": "Does the open-source Qwen model support function calling?",
+        "created_at": "2024-06-24T02:56:24Z",
+        "closed_at": "2024-06-29T14:31:00Z",
+        "duration_days": 5,
+        "comments_count": 9,
+        "assignee": null,
+        "community_engagement": "high",
+        "feature_category": "Function Calling Support",
+        "development_phase": "Clarification → Documentation → Resolution",
+        "significance": "Critical for open-source adoption and framework compatibility"
+      }
+    ],
+    "community_collaboration_metrics": {
+      "total_comments": 19,
+      "average_comments_per_issue": 9.5,
+      "total_development_days": 17,
+      "average_resolution_time_days": 8.5,
+      "contributor_participation": 3,
+      "maintainer_responsiveness": "excellent"
+    },
+    "open_source_ecosystem_impact": {
+      "demonstrates": [
+        "Transparent development process",
+        "Community-driven feature prioritization", 
+        "Rapid iteration and improvement",
+        "Cross-cultural collaboration (Chinese/English discussions)",
+        "Maintainer responsiveness to community needs"
+      ],
+      "showcases": "The vibrant ecosystem surrounding autonomous agent development",
+      "exemplifies": "The power of open-source collaboration in advancing AI agent technology"
+    },
+    "generated_by": "GitHub MCP Server Analysis",
+    "generated_at": "2025-09-09T07:42:00Z",
+    "analysis_purpose": "To quantify and showcase the community's dedication to continuous improvement and collaborative development in the QwenLM ecosystem"
+  }
+}
